@@ -100,7 +100,7 @@
     "@trivago/prettier-plugin-sort-imports": "2.0.4",
     "@types/async": "^3.2.7",
     "@types/bcryptjs": "^2.4.2",
-    "@types/jest": "^27.0.1",
+    "@types/jest": "^27.4.0",
     "@types/lodash": "^4.14.175",
     "@types/micro": "^7.3.6",
     "@types/node": "^16.6.1",
